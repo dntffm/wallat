@@ -1,0 +1,23 @@
+
+{
+    "status": "ok",
+    "query": {
+        "format": "json",
+        "kota": "679",
+        "tanggal": "2020-06-04"
+    },
+    "jadwal": {
+        "status": "ok",
+        "data": {
+            "ashar": "15:11",
+            "dhuha": "06:21",
+            "dzuhur": "11:51",
+            "imsak": "04:25",
+            "isya": "18:56",
+            "maghrib": "17:43",
+            "subuh": "04:35",
+            "tanggal": "Kamis, 04 Jun 2020",
+            "terbit": "05:53"
+        }
+    }
+}
