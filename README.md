@@ -1,2 +1,2 @@
-# wallat
-WALLAT (JADWAL SHOLAT) - Java socket based app moslem pray schedule
+# WALLAT - Jadwal Shalat
+WALLAT (JADWAL SHOLAT) - Java (JavaFX) socket App - Aplikasi Informasi Jadwal Shalat Se-Indonesia
